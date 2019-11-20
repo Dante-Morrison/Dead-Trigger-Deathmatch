@@ -99,8 +99,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delay: 3
-  radius: 10
-  explosionForce: 150
+  radius: 3
+  explosionForce: 50
   explosionEffect: {fileID: 3701986282156563452, guid: 0ad93436a87bcfc49b411373b4e87a51,
     type: 3}
 --- !u!1 &2968838920576661443
@@ -161,7 +161,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9952917b17613844b8581ba61f3066c5, type: 2}
+  - {fileID: 2100000, guid: d24c5997cefa89e4b890253f66d642ac, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -241,7 +241,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9952917b17613844b8581ba61f3066c5, type: 2}
+  - {fileID: 2100000, guid: d24c5997cefa89e4b890253f66d642ac, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -321,7 +321,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9952917b17613844b8581ba61f3066c5, type: 2}
+  - {fileID: 2100000, guid: d24c5997cefa89e4b890253f66d642ac, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
